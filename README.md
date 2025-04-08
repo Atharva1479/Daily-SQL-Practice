@@ -50,7 +50,7 @@ If you're also preparing for data-related roles or backend development, feel fre
 
 ## 🚀 Let's Connect
 
-- **Twitter (X)**: [YourUsername](https://x.com/its_atharva18)
-- **LinkedIn**: [YourLinkedIn](https://www.linkedin.com/in/atharva-jamdar/)
+- **Twitter (X)**: [Atharva18](https://x.com/its_atharva18)
+- **LinkedIn**: [Atharva-Jamdar](https://www.linkedin.com/in/atharva-jamdar/)
 
 Happy Learning! ✨
